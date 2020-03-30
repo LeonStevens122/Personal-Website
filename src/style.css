@@ -1,9 +1,19 @@
 nav {background-color: black}
 h1 { text-align: center;
 }
+
+.form-item {
+    text-align: right;
+}
+
+.descriptionPar {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
 .abt-column {
     float: left;
-  width: 70%;
+    width: 70%;
 }
 .column {
     float: left;
